@@ -1,0 +1,11 @@
+{
+    "name": "mytest",
+    "version": "0.0.9",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "mytest",
+    "files": [
+        "main.ts"
+    ]
+}
